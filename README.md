@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
+<h4 align="center">A passionate developer from India with below skills</h3>
 
-<!--
-**kumarsgoyal/kumarsgoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img width="40" height="40" title="docker" src="https://raw.githubusercontent.com/kumarsgoyal/kumarsgoyal/master/icons/docker.svg"/>
+    <img width="40" height="40" title="git" src="https://raw.githubusercontent.com/kumarsgoyal/kumarsgoyal/master/icons/git.svg"/>
+    <img width="40" height="40" title="github" src="https://raw.githubusercontent.com/kumarsgoyal/kumarsgoyal/master/icons/github.svg"/>
+    <img width="40" height="40" title="linux" src="https://raw.githubusercontent.com/kumarsgoyal/kumarsgoyal/master/icons/linux.svg"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=kumarsgoyal&show_icons=true" alt="kumarsgoyal"/> 
+</p>
