@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
-<h4 align="center">A passionate developer from India with below skills</h3>
+<h4 align="center">A passionate learner from India with below skills</h3>
 
 <p align="center">
     <img width="40" height="40" title="docker" src="https://raw.githubusercontent.com/kumarsgoyal/kumarsgoyal/master/icons/docker.svg"/>
