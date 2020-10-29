@@ -2,10 +2,10 @@
 <h4 align="center">A passionate learner from India with below skills</h3>
 
 <p align="center">
-    <img width="40" height="40" title="docker" src="https://raw.githubusercontent.com/kumarsgoyal/kumarsgoyal/master/icons/docker.svg"/>
-    <img width="40" height="40" title="git" src="https://raw.githubusercontent.com/kumarsgoyal/kumarsgoyal/master/icons/git.svg"/>
-    <img width="40" height="40" title="github" src="https://raw.githubusercontent.com/kumarsgoyal/kumarsgoyal/master/icons/github.svg"/>
-    <img width="40" height="40" title="linux" src="https://raw.githubusercontent.com/kumarsgoyal/kumarsgoyal/master/icons/linux.svg"/>
+    <img width="40" height="40" title="docker" src="https://github.com/kumarsgoyal/kumarsgoyal/blob/main/icons/docker.svg"/>
+    <img width="40" height="40" title="git" src="https://github.com/kumarsgoyal/kumarsgoyal/blob/main/icons/git.svg"/>
+    <img width="40" height="40" title="github" src="https://github.com/kumarsgoyal/kumarsgoyal/blob/main/icons/github.svg"/>
+    <img width="40" height="40" title="linux" src="https://github.com/kumarsgoyal/kumarsgoyal/blob/main/icons/linux.svg"/>
 </p>
 
 <p align="center"> 
