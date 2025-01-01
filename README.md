@@ -6,22 +6,23 @@
 
 <h3> ✨ About Me </h3>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="flex: 1;">
-        <ul style="list-style-type: none; padding: 0;">
-            <li>👨🏽‍💻 I’m currently working on <a href="https://github.com/RamenDR/ramen">Ramen DR</a></li>
-            <li>🌱 I’m currently learning Go and Kubernetes</li>
-            <li>🤔 I’m looking for help with Design Patterns</li>
-            <li>💬 Ask me about anything, I am happy to help</li>
-            <li>🎓 I have a degree in computer science engineering</li>
-            <li>📫 How to reach me: <a href="mailto:kumar.sgoyal@gmail.com">kumar.sgoyal@gmail.com</a></li>
-        </ul>
-    </div>
-    <div style="flex: 1; text-align: cener;">
-        <img width="80%" alt="Github" src="./icons/git-header.svg" style="margin-left: 20px;"/>
-    </div>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <ul style="list-style-type: none; padding: 0;">
+        <li>👨🏽‍💻 I’m currently working on <a href="https://github.com/RamenDR/ramen">Ramen DR</a></li>
+        <li>🌱 I’m currently learning Go and Kubernetes</li>
+        <li>🤔 I’m looking for help with Design Patterns</li>
+        <li>💬 Ask me about anything, I am happy to help</li>
+        <li>🎓 I have a degree in computer science engineering</li>
+        <li>📫 How to reach me: <a href="mailto:kumar.sgoyal@gmail.com">kumar.sgoyal@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" alt="Github" src="./icons/git-header.svg" />
+    </td>
+  </tr>
+</table>
 
 <h3> 🔧 Technologies and Tools </h3>
 
@@ -55,17 +56,13 @@
 
 <h3> 📊 GitHub Stats </h3>
 
-<div style="display: flex; gap: 1rem;">
-    <a href="https://github.com/kumarsgoyal">
-        <img height="172em" src="https://github-readme-stats.vercel.app/api?username=kumarsgoyal&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub Stats"/>
-    </a>
-    <a href="https://github.com/kumarsgoyal">
-        <img height="172em"  src="https://streak-stats.demolab.com/?user=kumarsgoyal&theme=onedark" alt="GitHub Streak"/>
-    </a>
-    <a href="https://github.com/kumarsgoyal">
-        <img height="172em" src="https://github-readme-stats-nine-beta-13.vercel.app/api/top-langs/?username=kumarsgoyal&layout=compact&langs_count=16&theme=onedark&include_all_commits=true" alt="Top Languages"/>
-    </a>
-</div>
+<table>
+  <tr>
+    <td><a href="https://github.com/kumarsgoyal"><img height="172em" src="https://github-readme-stats.vercel.app/api?username=kumarsgoyal&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub Stats"/></a></td>
+    <td><a href="https://github.com/kumarsgoyal"><img height="172em" src="https://streak-stats.demolab.com/?user=kumarsgoyal&theme=onedark" alt="GitHub Streak"/></a></td>
+    <td><a href="https://github.com/kumarsgoyal"><img height="172em" src="https://github-readme-stats-nine-beta-13.vercel.app/api/top-langs/?username=kumarsgoyal&layout=compact&langs_count=16&theme=onedark&include_all_commits=true" alt="Top Languages"/></a></td>
+  </tr>
+</table>
 
 <h3> 👀  Profile Views </h3>
 <p align="center"> 
