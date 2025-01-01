@@ -26,9 +26,6 @@
 
 <h3> 🔧 Technologies and Tools </h3>
 
-<table width="100%">
-  <tr>
-      <td width="50%" valign="top">
 <p align="center">
     <img src="./icons/html.svg" alt="HTML" width="50" height="50"/>
     <img src="./icons/css.svg" alt="CSS" width="50" height="50"/>
