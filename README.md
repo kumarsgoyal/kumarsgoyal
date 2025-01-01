@@ -28,6 +28,7 @@
 
 <table width="100%">
   <tr>
+      <td width="50%" valign="top">
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
     <img src="./icons/html.svg" alt="HTML" width="50" height="50"/>
     <img src="./icons/css.svg" alt="CSS" width="50" height="50"/>
@@ -51,6 +52,7 @@
     <img src="./icons/postman.svg" alt="Postman" width="50" height="50"/>
     <img src="./icons/vscode.svg" alt="VSCode" width="50" height="50"/>
 </div>
+      </td>
   </tr>
 </table>
 
