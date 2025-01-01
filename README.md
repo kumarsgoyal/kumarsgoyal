@@ -3,12 +3,11 @@
 <h3 align="center"> 
     <img alt="Github" src="https://readme-typing-svg.herokuapp.com?color=F39C12&size=25&center=true&vCenter=true&lines=Hello!++Nice+to+meet+you+%3AD" />
 </h3>
+
 <h3> ✨ About Me </h3>
 
-<h4 align="center">I am a passionate learner from India. I have experience and interest in working with the following technologies and tools:</h4>
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div>
+    <div style="flex: 1;">
         <ul style="list-style-type: none; padding: 0;">
             <li>👨🏽‍💻 I’m currently working on <a href="https://github.com/RamenDR/ramen">Ramen DR</a></li>
             <li>🌱 I’m currently learning Go and Kubernetes</li>
@@ -18,7 +17,10 @@
             <li>📫 How to reach me: <a href="mailto:kumar.sgoyal@gmail.com">kumar.sgoyal@gmail.com</a></li>
         </ul>
     </div>
-    <img width="55%" alt="Github" src="./icons/git-header.svg" style="margin-left: 20px;"/>
+    <div style="flex: 1; text-align: cener;">
+        <img width="80%" alt="Github" src="./icons/git-header.svg" style="margin-left: 20px;"/>
+    </div>
+
 </div>
 
 <h3> 🔧 Technologies and Tools </h3>
