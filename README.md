@@ -26,37 +26,30 @@
 
 <h3> 🔧 Technologies and Tools </h3>
 
-<table align="center">
-  <tr>
-    <td><img src="./icons/html.svg" alt="HTML" /></td>
-    <td><img src="./icons/css.svg" alt="CSS" /></td>
-    <td><img src="./icons/js.svg" alt="JavaScript" /></td>
-    <td><img src="./icons/nodejs.svg" alt="Nodejs" /></td>
-    <td><img src="./icons/react.svg" alt="React" /></td>
-    <td><img src="./icons/redux.svg" alt="Redux" /></td>
-  </tr>
-  <tr>
-    <td><img src="./icons/java.svg" alt="JAVA" /></td>
-    <td><img src="./icons/spring.svg" alt="Spring" /></td>
-    <td><img src="./icons/postgres.svg" alt="Postgres" /></td>
-    <td><img src="./icons/rabbitmq.svg" alt="Rabbitmq" /></td>
-    <td><img src="./icons/elasticsearch.svg" alt="Elasticsearch" /></td>
-    <td><img src="./icons/golang.svg" alt="Go" /></td>
-  </tr>
-  <tr>
-    <td><img src="./icons/docker.svg" alt="Docker" /></td>
-    <td><img src="./icons/kubernetes.svg" alt="Kubernetes" /></td>
-    <td><img src="./icons/linux.svg" alt="Linux" /></td>
-    <td><img src="./icons/bash.svg" alt="Bash" /></td>
-    <td><img src="./icons/git.svg" alt="Git" /></td>
-    <td><img src="./icons/github.svg" alt="Github" /></td>
-  </tr>
-  <tr>
-    <td><img src="./icons/aws.svg" alt="AWS" /></td>
-    <td><img src="./icons/postman.svg" alt="Postman" /></td>
-    <td><img src="./icons/vscode.svg" alt="VSCode" /></td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <img src="./icons/html.svg" alt="HTML" width="50" height="50"/>
+    <img src="./icons/css.svg" alt="CSS" width="50" height="50"/>
+    <img src="./icons/js.svg" alt="JavaScript" width="50" height="50"/>
+    <img src="./icons/nodejs.svg" alt="Nodejs" width="50" height="50"/>
+    <img src="./icons/react.svg" alt="React" width="50" height="50"/>
+    <img src="./icons/redux.svg" alt="Redux" width="50" height="50"/>
+    <img src="./icons/java.svg" alt="JAVA" width="50" height="50"/>
+    <img src="./icons/spring.svg" alt="Spring" width="50" height="50"/>
+    <img src="./icons/postgres.svg" alt="Postgres" width="50" height="50"/>
+    <img src="./icons/rabbitmq.svg" alt="Rabbitmq" width="50" height="50"/>
+    <img src="./icons/elasticsearch.svg" alt="Elasticsearch" width="50" height="50"/>
+    <img src="./icons/golang.svg" alt="Go" width="50" height="50"/>
+    <img src="./icons/docker.svg" alt="Docker" width="50" height="50"/>
+    <img src="./icons/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
+    <img src="./icons/linux.svg" alt="Linux" width="50" height="50"/>
+    <img src="./icons/bash.svg" alt="Bash" width="50" height="50"/>
+    <img src="./icons/git.svg" alt="Git" width="50" height="50"/>
+    <img src="./icons/github.svg" alt="Github" width="50" height="50"/>
+    <img src="./icons/aws.svg" alt="AWS" width="50" height="50"/>
+    <img src="./icons/postman.svg" alt="Postman" width="50" height="50"/>
+    <img src="./icons/vscode.svg" alt="VSCode" width="50" height="50"/>
+</div>
+
 
 <div style="text-align: center; margin-top: 20px;">
     <img alt="Snake animation" src="./icons/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: auto;"/>
