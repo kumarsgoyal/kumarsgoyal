@@ -57,7 +57,7 @@
 </table>
 
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="align:center; text-align: center; margin-top: 20px;">
     <img alt="Snake animation" src="./icons/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: auto;"/>
 </div>
 
