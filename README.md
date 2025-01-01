@@ -56,10 +56,9 @@
   </tr>
 </table>
 
-
-<div style="display: flex; justify-content: center; align-items: center; text-align: center; margin-top: 20px;">
-    <img alt="Snake animation" src="./icons/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: auto;"/>
-</div>
+<p align="center">
+  <img alt="Snake animation" src="./icons/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: auto;"/>
+</p>
 
 
 
