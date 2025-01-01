@@ -26,6 +26,8 @@
 
 <h3> 🔧 Technologies and Tools </h3>
 
+<table width="100%">
+  <tr>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
     <img src="./icons/html.svg" alt="HTML" width="50" height="50"/>
     <img src="./icons/css.svg" alt="CSS" width="50" height="50"/>
@@ -49,6 +51,8 @@
     <img src="./icons/postman.svg" alt="Postman" width="50" height="50"/>
     <img src="./icons/vscode.svg" alt="VSCode" width="50" height="50"/>
 </div>
+  </tr>
+</table>
 
 
 <div style="text-align: center; margin-top: 20px;">
