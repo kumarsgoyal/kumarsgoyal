@@ -29,7 +29,7 @@
 <table width="100%">
   <tr>
       <td width="50%" valign="top">
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<p align="center">
     <img src="./icons/html.svg" alt="HTML" width="50" height="50"/>
     <img src="./icons/css.svg" alt="CSS" width="50" height="50"/>
     <img src="./icons/js.svg" alt="JavaScript" width="50" height="50"/>
@@ -51,10 +51,7 @@
     <img src="./icons/aws.svg" alt="AWS" width="50" height="50"/>
     <img src="./icons/postman.svg" alt="Postman" width="50" height="50"/>
     <img src="./icons/vscode.svg" alt="VSCode" width="50" height="50"/>
-</div>
-      </td>
-  </tr>
-</table>
+</p>
 
 <p align="center">
   <img alt="Snake animation" src="./icons/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: auto;"/>
