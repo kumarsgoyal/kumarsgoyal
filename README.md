@@ -84,3 +84,9 @@
         <img align="center" src="./icons/gmail.svg" alt="mailto:kumar.sgoyal@gmail.com"  />
     </a>
 </p>
+
+<p align="center">
+    <a href="https://kumarsgoyal.github.io/my-portfolio/" target="blank">
+        portfolio
+    </a>
+</p>
