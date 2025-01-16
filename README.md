@@ -50,12 +50,6 @@
     <img src="./icons/vscode.svg" alt="VSCode" width="50" height="50"/>
 </p>
 
-<p align="center">
-  <img alt="Snake animation" src="./icons/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: auto;"/>
-</p>
-
-
-
 <h3> 📊 GitHub Stats </h3>
 
 <table>
@@ -65,6 +59,10 @@
     <td><a href="https://github.com/kumarsgoyal"><img height="172em" src="https://github-readme-stats-nine-beta-13.vercel.app/api/top-langs/?username=kumarsgoyal&layout=compact&langs_count=16&theme=onedark&include_all_commits=true" alt="Top Languages"/></a></td>
   </tr>
 </table>
+
+<p align="center">
+  <img alt="Snake animation" src="./icons/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: auto;"/>
+</p>
 
 <h3> 👀  Profile Views </h3>
 <p align="center"> 
