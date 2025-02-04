@@ -72,19 +72,19 @@
 <h3> 🌐 Connect </h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/kumarsgoyal/" target="blank">
+    <a href="https://www.linkedin.com/in/kumarsgoyal/" target="_blank">
         <img align="center" src="./icons/linkedin.svg" alt="https://www.linkedin.com/in/kumarsgoyal/"/>
     </a>
-    <a href="https://github.com/kumarsgoyal" target="blank">
+    <a href="https://github.com/kumarsgoyal" target="_blank">
         <img align="center" src="./icons/github.svg" alt="https://github.com/kumarsgoyal"/>
     </a>
-    <a href="mailto:kumar.sgoyal@gmail.com" target="blank">
+    <a href="mailto:kumar.sgoyal@gmail.com" target="_blank">
         <img align="center" src="./icons/gmail.svg" alt="mailto:kumar.sgoyal@gmail.com"  />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://kumarsgoyal.github.io/my-portfolio/" target="blank">
+    <a href="https://kumarsgoyal.github.io/my-portfolio/" target="_blank">
         portfolio
     </a>
 </p>
