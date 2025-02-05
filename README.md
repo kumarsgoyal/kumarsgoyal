@@ -87,4 +87,7 @@
     <a href="https://kumarsgoyal.github.io/my-portfolio/" target="_blank">
         portfolio
     </a>
+    <a href="https://kumarsgoyal.github.io/MyPortfolio/" target="_blank">
+        portfolio
+    </a>
 </p>
