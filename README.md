@@ -27,20 +27,20 @@
 <h3> 🔧 Technologies and Tools </h3>
 
 <p align="center">
+    <img src="./icons/golang.svg" alt="Go" width="50" height="50"/>
+    <img src="./icons/docker.svg" alt="Docker" width="50" height="50"/>
+    <img src="./icons/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
+    <img src="./icons/java.svg" alt="JAVA" width="50" height="50"/>
+    <img src="./icons/spring.svg" alt="Spring" width="50" height="50"/>
+    <img src="./icons/postgres.svg" alt="Postgres" width="50" height="50"/>
+    <img src="./icons/rabbitmq.svg" alt="Rabbitmq" width="50" height="50"/>
+    <img src="./icons/elasticsearch.svg" alt="Elasticsearch" width="50" height="50"/>
     <img src="./icons/html.svg" alt="HTML" width="50" height="50"/>
     <img src="./icons/css.svg" alt="CSS" width="50" height="50"/>
     <img src="./icons/js.svg" alt="JavaScript" width="50" height="50"/>
     <img src="./icons/nodejs.svg" alt="Nodejs" width="50" height="50"/>
     <img src="./icons/react.svg" alt="React" width="50" height="50"/>
     <img src="./icons/redux.svg" alt="Redux" width="50" height="50"/>
-    <img src="./icons/java.svg" alt="JAVA" width="50" height="50"/>
-    <img src="./icons/spring.svg" alt="Spring" width="50" height="50"/>
-    <img src="./icons/postgres.svg" alt="Postgres" width="50" height="50"/>
-    <img src="./icons/rabbitmq.svg" alt="Rabbitmq" width="50" height="50"/>
-    <img src="./icons/elasticsearch.svg" alt="Elasticsearch" width="50" height="50"/>
-    <img src="./icons/golang.svg" alt="Go" width="50" height="50"/>
-    <img src="./icons/docker.svg" alt="Docker" width="50" height="50"/>
-    <img src="./icons/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
     <img src="./icons/linux.svg" alt="Linux" width="50" height="50"/>
     <img src="./icons/bash.svg" alt="Bash" width="50" height="50"/>
     <img src="./icons/git.svg" alt="Git" width="50" height="50"/>
